@@ -4,6 +4,7 @@
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Pick a number!");
             var answer = 4;
             var response = int.Parse (Console.ReadLine());
           
